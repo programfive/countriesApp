@@ -14,7 +14,6 @@ Countries App es una aplicación web que permite a los usuarios explorar informa
 - **Backend**: API REST Countries
 - **Estilos**: Tailwind CSS
 - **Enrutamiento**: React Router
-- **Peticiones HTTP**: Axios
 
 ## **Requisitos previos**
 Para ejecutar este proyecto, necesitas tener instalado:
