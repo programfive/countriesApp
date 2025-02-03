@@ -1,6 +1,6 @@
 # **Countries App**
 ![Mockup de la aplicación](/public/countries-app.png)
-🌐 [Demo en vivo](https://countries-app-rho-six.vercel.app/) | 📝 [Repositorio](https://github.com/programfive/countriesApp.git)
+🌐 [Demo en vivo](https://countries-app-lyart-omega.vercel.app) | 📝 [Repositorio](https://github.com/programfive/countriesApp.git)
 Countries App es una aplicación web que permite a los usuarios explorar información detallada sobre diferentes países del mundo. Los usuarios pueden buscar países, ver sus detalles específicos como población, capital, idiomas y más, todo presentado en una interfaz intuitiva y amigable.
 
 ## **Características principales**
